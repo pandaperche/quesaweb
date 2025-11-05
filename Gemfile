@@ -17,4 +17,4 @@ gem "jekyll-include-cache", group: :jekyll_plugins
 gem "rake", ">= 12.3.1", group: :jekyll_plugins
 gem "jemoji", group: :jekyll_plugins
 
-gem "html-proofer", "~> 5.0", :group => :development
+gem "html-proofer", "~> 5.1", :group => :development
